@@ -1,8 +1,8 @@
 package dom
 
 import (
-	"github.com/lestrrat-go/libxml2/clib"
-	"github.com/lestrrat-go/libxml2/types"
+	"github.com/icysoft/libxml2/clib"
+	"github.com/icysoft/libxml2/types"
 )
 
 // Serialize produces serialization of the document, canonicalized.

@@ -4,10 +4,10 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/lestrrat-go/libxml2"
-	"github.com/lestrrat-go/libxml2/parser"
-	"github.com/lestrrat-go/libxml2/types"
-	"github.com/lestrrat-go/libxml2/xpath"
+	"github.com/icysoft/libxml2"
+	"github.com/icysoft/libxml2/parser"
+	"github.com/icysoft/libxml2/types"
+	"github.com/icysoft/libxml2/xpath"
 )
 
 func ExampleXML() {
